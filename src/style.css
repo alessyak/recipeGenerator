@@ -1,0 +1,59 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #f9ffea;
+}
+
+footer {
+  font-size: 12px;
+  color: #693e52;
+}
+
+footer a {
+  color: #d4a5a5;
+}
+
+footer a:hover {
+  color: #a6d0e4;
+}
+
+h1 {
+  text-align: center;
+  color: #693e52;
+}
+
+form {
+  background-color: #ffecda;
+  border-radius: 3px;
+  color: #d4a5a5;
+}
+
+strong {
+  color: #d4a5a5;
+}
+
+.container {
+  max-width: 600px;
+  margin: 100px auto;
+}
+
+.btn-primary {
+  background-color: #d4a5a5;
+  border: #d4a5a5;
+}
+
+.btn-primary:hover {
+  background-color: #a6d0e4;
+  border: #a6d0e4;
+}
+
+.recipe {
+  background-color: #ffecda;
+  border-radius: 3px;
+  color: #693e52;
+  border-left: 3px solid #d4a5a5;
+}
+
+.hidden {
+  display: none;
+}
